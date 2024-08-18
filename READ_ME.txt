@@ -1,6 +1,6 @@
-O HTML PRINCIPAL … O HTML29_10
-------------------------------
-CADA HTML TEM UM TIPO DE ESTILIZA«√O
+O HTML PRINCIPAL √â O HTML29_10
+--------------------------------------
+CADA HTML TEM UM TIPO DE ESTILIZA√á√ÉO
 --------------------------------------
 HOME, DISCOGRAFIA E INSTAWEB === QUANDO PASSAR O MOUSE APARECE A LEGENDA
 
