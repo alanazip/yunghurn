@@ -11,10 +11,7 @@
   <li>Discografia por álbuns</li>
 </ul>
 
-<h3>🖥️ Prévia</h3>
-<p>
-  <img src="docs/preview.png" alt="Prévia do site" width="700">
-</p>
+
 
 <h3>🚀 Como rodar</h3>
 <pre><code># clone
